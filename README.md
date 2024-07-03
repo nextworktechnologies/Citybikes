@@ -15,6 +15,8 @@
 
 This tile can be used on the [Laravel Dashboard](https://docs.spatie.be/laravel-dashboard) to display the status of [Citybikes](https://citybik.es/) Stations - an API for bike services all over the world.
 
+## Cyber
+
 ## Installation
 
 You can install the package via composer:
@@ -60,7 +62,7 @@ In your dashboard view you use the `livewire:citybikes-tile` component.
 
 ```html
 <x-dashboard>
-    <livewire:citybikes-tile position="a1" />
+  <livewire:citybikes-tile position="a1" />
 </x-dashboard>
 ```
 
@@ -92,8 +94,8 @@ If you discover any security related issues, please check [SECURITY](https://git
 
 ## Credits
 
--   [Tom Witkowski](https://github.com/Gummibeer)
--   [All Contributors](https://github.com/Astrotomic/laravel-dashboard-citybikes-tile/graphs/contributors)
+- [Tom Witkowski](https://github.com/Gummibeer)
+- [All Contributors](https://github.com/Astrotomic/laravel-dashboard-citybikes-tile/graphs/contributors)
 
 ## License
 
